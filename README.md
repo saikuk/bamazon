@@ -10,7 +10,7 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 ## Video Captured by Screencastify
 
-https://drive.google.com/file/d/15KBvV386ELikOO8LZkUz2CFdM88p5_Gr/view
+https://drive.google.com/file/d/1NCVlO-ksAmwG03Sjq45l8KGW9epHsDAo/view
 
 
 
@@ -20,34 +20,34 @@ https://drive.google.com/file/d/15KBvV386ELikOO8LZkUz2CFdM88p5_Gr/view
 ```
 node bamazonCustomer.js
 
---------------------------------------
+-----------------------------------------------
 ID: 1
 Product: Iwatch
 Department: Smartwatches
 Price: 399.99
 Quantity: 0
---------------------------------------
---------------------------------------
+-----------------------------------------------
+-----------------------------------------------
 ID: 2
 Product: Toothbrush
 Department: Personal Care
 Price: 1.99
 Quantity: 125
---------------------------------------
---------------------------------------
+-----------------------------------------------
+-----------------------------------------------
 ID: 3
 Product: Shampoo
 Department: Personal Care
 Price: 8.55
 Quantity: 78
---------------------------------------
---------------------------------------
+-----------------------------------------------
+-----------------------------------------------
 ID: 4
 Product: apple
 Department: food
 Price: 1
 Quantity: 100
---------------------------------------
+-----------------------------------------------
 -----------------------------------------------
 ID: 5
 Product: Hat
