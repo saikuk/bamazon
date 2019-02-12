@@ -92,13 +92,11 @@ function updateQuantity(ProductID, units) {
     }, function(error, response) {
         if (error) throw error;
 
-        var newQuantity = response[0].stock_quantity - units;
-
-        if (newQuantity < 0)
-            newQuantity = 0;
-
+        var update = response[0].stock_quantity - units;
+        if (update < 0)
+            update = 0;
         connection.query("UPDATE products SET ? WHERE ?", [{
-            stock_quantity: newQuantity
+            stock_quantity: update
         }, {
             item_id: ProductID
         }], function(error, response) {});

@@ -48,6 +48,51 @@ Department: food
 Price: 1
 Quantity: 100
 --------------------------------------
-
+-----------------------------------------------
+ID: 5
+Product: Hat
+Department: Clothing
+Price: 12.99
+Quantity: 4
+-----------------------------------------------
+-----------------------------------------------
+ID: 6
+Product: shoes
+Department: Clothing
+Price: 123.99
+Quantity: 25
+-----------------------------------------------
+-----------------------------------------------
+ID: 7
+Product: Headphone
+Department: Electronics
+Price: 189.99
+Quantity: 1
+-----------------------------------------------
+-----------------------------------------------
+ID: 8
+Product: TV
+Department: Electronics
+Price: 599.99
+Quantity: 3
+-----------------------------------------------
+-----------------------------------------------
+ID: 9
+Product: Table
+Department: Furniture
+Price: 170.99
+Quantity: 2
+-----------------------------------------------
+-----------------------------------------------
+ID: 10
+Product: toliet paper
+Department: Household
+Price: 24.5
+Quantity: 57
+-----------------------------------------------
+? ID of the product you would like to buy:  1
+? How many units of the product you would like to buy? 2
+Total cost is $ 799.98
+? Do you want to buy more items? No
 ```
 
